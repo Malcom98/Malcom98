@@ -1,18 +1,28 @@
-### Hi there 👋
+<h1>Hello there 👋 </h1> 
+<h3>About me</h3>
+<p>⏩ I am hardworking, understandable, responsible programmer (3 years on a daily basis). I do full stack development. My main focus is PHP & Laravel for backend and Javascript & React for frontend. For Database Managment System I use SQL (PostgreSQL, MySQL and SQL Server). I'm interested in both short term & long term projects.</p>
 
-Secret
+<h3>My skills</h3>
+<p>
+  ⏩ Web: 
+  <ul>
+    <li>Front end: HTML5, CSS3, Bootstrap, JS, jQuery, AJAX, React</li>
+    <li>Back end: PHP, Laravel, (REST API, JWTs)</li>
+  </ul>
+</p>
+<p>⏩ Desktop:
+  <ul>
+    <li>C# (.NET)</li>
+  </ul>
+</p>
+<p>
+⏩ Databases:
+  <ul>
+  <li>MySQL</li>
+    <li>PostgreSQL</li>
+    <li>SQL Server</li>
+  </ul>
+</p>
 
-<!--
-**Malcom98/Malcom98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3>Projects</h3>
+<p>If you would like to see my projects, visit my <a href="https://github.com/Malcom98?tab=repositories">repositories</a> tab.</p>
