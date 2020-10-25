@@ -6,8 +6,8 @@
 <p>
   Web: 
   <ul>
-    <li>Front end: HTML5, CSS3, Bootstrap, JS, jQuery, AJAX, React</li>
-    <li>Back end: PHP, Laravel, (REST API, JWTs)</li>
+    <li>Front end: HTML5, CSS3, Scss, Bootstrap, JS, jQuery, AJAX, React, React Hooks, Vue.js</li>
+    <li>Back end: PHP, Laravel, (REST API, JWTs), Node.js, Express</li>
   </ul>
 </p>
 <p>Desktop:
@@ -18,9 +18,10 @@
 <p>
 Databases:
   <ul>
-  <li>MySQL</li>
+    <li>MySQL</li>
     <li>PostgreSQL</li>
     <li>SQL Server</li>
+    <li>Mongo DB</li>
   </ul>
 </p>
 
