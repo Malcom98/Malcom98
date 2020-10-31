@@ -6,7 +6,7 @@
 <p>
   Web: 
   <ul>
-    <li>Front end: HTML5, CSS3, Scss, Bootstrap, JS, jQuery, AJAX, React, React Hooks, Vue.js</li>
+    <li>Front end: HTML5, CSS3, Scss, Bootstrap, JS, AJAX, React, React Hooks, Vue.js</li>
     <li>Back end: PHP, Laravel, (REST API, JWTs), Node.js, Express</li>
   </ul>
 </p>
