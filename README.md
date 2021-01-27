@@ -4,24 +4,10 @@
 
 <h3>💻 My skills</h3>
 <p>
-  Web: 
   <ul>
-    <li>Front end: HTML5, CSS3, Scss, Bootstrap, JS, AJAX, React, React Hooks, Vue.js</li>
+    <li>Front end: HTML5, CSS3, Scss, Bootstrap, JS, AJAX, React, React Hooks, Vue.js, Nuxt JS</li>
     <li>Back end: PHP, Laravel, (REST API, JWTs), Node.js, Express, Web Sockets</li>
-  </ul>
-</p>
-<p>Desktop:
-  <ul>
-    <li>C# (.NET)</li>
-  </ul>
-</p>
-<p>
-Databases:
-  <ul>
-    <li>MySQL</li>
-    <li>PostgreSQL</li>
-    <li>SQL Server</li>
-    <li>Mongo DB</li>
+    <li>Databases: MySQL, PostgreSQL, SQL Server, MongoDB</li>
   </ul>
 </p>
 
