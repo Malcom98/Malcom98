@@ -8,6 +8,7 @@
     <li>Front end: HTML5, CSS3, Scss, Bootstrap, JS, AJAX, React, React Hooks, Vue.js, Nuxt JS</li>
     <li>Back end: PHP, Laravel, (REST API, JWTs), Node.js, Express, Web Sockets</li>
     <li>Databases: MySQL, PostgreSQL, SQL Server, MongoDB</li>
+    <li>Other: Firebase Cloud Messaging, Docker, Git Actions, Cloudflare</li>
   </ul>
 </p>
 
