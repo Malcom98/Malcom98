@@ -1,14 +1,19 @@
 <h1>Hello there 👋 </h1> 
 <h3>😃 About me</h3>
-<p>I am hardworking, understandable, responsible programmer (3 and half years on a daily basis). I do full stack development. My main focus is PHP & Laravel for backend and Javascript & Nuxt.js & Vue for frontend. For Database Managment System I use SQL (PostgreSQL, MySQL and SQL Server). I'm interested in both short term & long term projects.</p>
+<p>Hey! Glad to see you here! 👨🏻‍💻
+
+I'm 23 years old Software Engineer from Croatia, currently working as Senior PHP Backend Developer in Marker d.o.o.
+
+As a developer, my main focus is developing full stack web applications using PHP/Laravel, JS/Vue.js and mySQL. Furthermore, I'm very hardworking, persistant, precise and responsible in what I do.
+</p>
 
 <h3>💻 My skills</h3>
 <p>
   <ul>
     <li>Front end: HTML5, CSS3, Scss, Bootstrap, JS, AJAX, React, React Hooks, Vue.js, Nuxt JS</li>
-    <li>Back end: PHP, Laravel, (REST API, JWTs), Node.js, Express, Web Sockets</li>
+    <li>Back end: PHP, Laravel, (REST API, JWTs), Node.js, Express</li>
     <li>Databases: MySQL, PostgreSQL, SQL Server, MongoDB</li>
-    <li>Other: Firebase Cloud Messaging, Docker, Git Actions, Cloudflare</li>
+    <li>Other: Firebase Cloud Messaging, Docker, Git Actions, Cloudflare, Web Sockets, GraphQL, Netlify, Heroku, Min.io, AWS S3, Docker</li>
   </ul>
 </p>
 
