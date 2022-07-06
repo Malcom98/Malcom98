@@ -1,8 +1,8 @@
 <h1>Hello there 👋 </h1> 
 <h3>😃 About me</h3>
-<p>Hey! Glad to see you here! 👨🏻‍💻
+<p>Hey! Glad to see you here! 
 
-I'm 23 years old Software Engineer from Croatia, currently working as Senior PHP Backend Developer in Marker d.o.o.
+I'm 24 years old Software Engineer from Croatia, currently working as Senior PHP Backend Developer in Marker d.o.o.
 
 As a developer, my main focus is developing full stack web applications using PHP/Laravel, JS/Vue.js and mySQL. Furthermore, I'm very hardworking, persistant, precise and responsible in what I do.
 </p>
