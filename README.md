@@ -10,10 +10,10 @@ As a developer, my main focus is developing full stack web applications using PH
 <h3>💻 My skills</h3>
 <p>
   <ul>
-    <li>Front end: HTML5, CSS3, Scss, Bootstrap, Tailwind, JS, AJAX, React, React Hooks, Vue.js, Nuxt JS</li>
+    <li>Front end: HTML5, CSS3, Scss, Bootstrap, Tailwind, JS, ES6, Typescript, AJAX, React, React Hooks, Vue.js, Nuxt JS</li>
     <li>Back end: PHP, Laravel, (REST API, JWTs), Node.js, Express</li>
     <li>Databases: MySQL, PostgreSQL, SQL Server, MongoDB</li>
-    <li>Other: Firebase Cloud Messaging, Docker, Git Actions, Cloudflare, Web Sockets, GraphQL, Netlify, Heroku, Min.io, AWS S3, AWS EC2, Docker, Postman Advanced Stuff (Flows, Auto-Testing), Open API 3.0, Elasticsearch, Redis, Apache2</li>
+    <li>Other: Firebase Cloud Messaging, Docker, Git Actions, Cloudflare, Web Sockets, GraphQL, Netlify, Heroku, Min.io, AWS S3, AWS EC2, Docker, Postman Advanced Stuff (Flows, Auto-Testing), Open API 3.0, Elasticsearch, Redis, Apache2, Git version control</li>
   </ul>
 </p>
 
