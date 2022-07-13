@@ -4,7 +4,7 @@
 
 I'm 24 years old Software Engineer from Croatia, currently working as Senior PHP Backend Developer in Marker d.o.o.
 
-As a developer, my main focus is developing full stack web applications using PHP/Laravel, JS/Vue.js and mySQL. Furthermore, I'm very hardworking, persistant, precise and responsible in what I do.
+As a developer, my main focus is developing full stack web applications using PHP/Laravel, JS/Vue.js and mySQL. Presently, I have been coding for 6 years on almost daily basis. Furthermore, I'm very hardworking, persistant, precise and responsible in what I do.
 </p>
 
 <h3>💻 My skills</h3>
